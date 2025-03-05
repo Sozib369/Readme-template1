@@ -95,7 +95,7 @@ http://www.studywithanis.com
 
 ## Image Syntax
 
-![profile] (image.png)
+![profile] (picture.png)
 
 <!--All link here -->
 [StudyWithanis]:http://WWW.studywithanis.com 
