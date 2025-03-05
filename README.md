@@ -94,8 +94,8 @@ http://www.studywithanis.com
 
 
 ## Image Syntax
-<br>
-![at text] (image)
+
+![profile] (image.png)
 
 <!--All link here -->
 [StudyWithanis]:http://WWW.studywithanis.com 
